@@ -15,9 +15,60 @@ Welcome to the **AWS Admin Zero to Hero** repository, your step-by-step guide to
 
 ---
 
-## 🗂️ Table of Contents (Work in Progress)
-*As the project grows, content will be organized into daily/weekly modules. Here’s a sneak peek:*
+## 🗂️ Table of Contents
 
+### **Phase 1: Foundations of AWS Administration**
+
+#### **Module 1: Cloud Foundations**
+1. **Introduction to Cloud Computing**  
+   - What is the cloud? Key benefits: Scalability, cost-efficiency, flexibility.  
+2. **Public Cloud vs. Private Cloud**  
+   - Use cases, pros/cons, hybrid cloud overview.  
+3. **Client-Server Model Simplified**  
+   - How clients interact with cloud servers.  
+4. **Physical vs. Logical Infrastructure**  
+   - Data centers vs. virtual resources (EC2, S3).  
+
+#### **Module 2: Networking Essentials**
+5. **IP Addressing & Subnetting**  
+   - Public vs. Private IP ranges (IPv4 basics).  
+   - Subnets: Purpose and design.  
+6. **Understanding Network Isolation**  
+   - Public subnets (internet-facing) vs. Private subnets (isolated).  
+7. **Real-World Use Case: Secure Server Access**  
+   - Connecting to servers in private subnets.  
+
+#### **Module 3: Building Your First AWS Environment**
+8. **Deploying a VPC**  
+   - Step-by-step guide: VPC, Internet Gateway, Route Tables, NAT Gateway.  
+9. **Launch Templates & EC2 Instances**  
+   - Why use launch templates? Lab: Spinning up servers in public/private subnets.  
+
+#### **Module 4: Security & Access Management**
+10. **IAM Deep Dive**  
+    - Users, Groups, Roles, Policies (with JSON examples).  
+    - Principle of Least Privilege.  
+11. **Authentication vs. Authorization**  
+    - AuthN (Who are you?) vs. AuthZ (What can you do?).  
+12. **AWS Organizations**  
+    - Managing multi-account strategies.  
+
+#### **Module 5: Automation & Management**
+13. **AWS CLI Basics**  
+    - Install, configure, and run commands (e.g., EC2 management).  
+14. **Infrastructure as Code (IaC)**  
+    - Introduction to AWS CloudFormation.  
+    - Lab: Deploy a VPC using templates.  
+
+#### **Phase 1 Final Project**
+- **Build a Secure 2-Tier Architecture**  
+  - Web server (public subnet) + Database (private subnet).  
+
+---
+
+### **What’s Next in Phase 2?**  
+*(Coming soon! Stay tuned for semi-intermediate topics.)*  
+**👉 Check this repo regularly for updates!**
 
 ---
 
