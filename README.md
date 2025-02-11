@@ -176,4 +176,3 @@ Welcome to **AWS Admin Zero to Hero**, your step-by-step guide to mastering AWS 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODEOFCONDUCT.md)
-```
