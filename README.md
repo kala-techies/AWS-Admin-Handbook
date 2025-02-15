@@ -3,7 +3,7 @@
 
 **Empowering everyone to master AWS Administration — no prior IT experience required!**
 
-Welcome to **AWS Admin Zero to Hero**, your step-by-step guide to mastering AWS through hands-on labs, clear explanations, and real-world projects. This repository breaks down complex cloud concepts into **beginner-friendly modules**, focusing on the **"why"** and **"how"** behind AWS services. By the end of Phase 3, you’ll design enterprise-grade architectures! 🌩️
+Welcome to **AWS Admin Zero to Hero**, your step-by-step guide to mastering AWS through hands-on labs, clear explanations, and real-world projects. This repository breaks down complex cloud concepts into **beginner-friendly modules**, focusing on the **"why"** and **"how"** behind AWS services. By the end of Phase 3, you’ll design enterprise-grade architectures!
 
 ---
 
