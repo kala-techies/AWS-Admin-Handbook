@@ -11,7 +11,7 @@ Welcome to **AWS Admin Zero to Hero**, your step-by-step guide to mastering AWS 
 - **Zero Fluff, All Practical**: Learn by doing with guided labs and projects.
 - **No Prior Experience Needed**: Start from absolute basics (what’s a server?) to cloud-native architectures.
 - **Community-Driven**: Contributions welcome! Fix typos, add labs, or improve explanations.
-- **Free Forever**: Open-source and MIT-licensed. 🎉
+- **Free Forever**: Open-source and MIT-licensed. 
 
 ---
 
